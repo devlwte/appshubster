@@ -1,0 +1,391 @@
+body,
+html {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    overflow: hidden;
+}
+
+/* atajos */
+a.disabled {
+    color: #bebebe;
+    cursor: not-allowed;
+    pointer-events: none;
+}
+
+div.disabled {
+    color: #bebebe;
+    cursor: not-allowed;
+    pointer-events: none;
+}
+.no-show{
+    display: none;
+}
+body {
+    background-image: url(/imagen/bg.png);
+    background-size: cover;
+    background-position: center;
+}
+
+body::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.288), rgba(0, 0, 0, 0.973));
+}
+
+.wikiapi-container {
+    position: relative;
+    z-index: 99;
+    height: 100%;
+    overflow: auto;
+}
+
+.pos-center-page {
+    transition: 0.3s all;
+    margin-top: 100px;
+}
+
+/* form search */
+.pos-pe {
+    position: sticky;
+    top: 0;
+    transition: 0.3s all;
+    z-index: 99;
+    height: auto;
+}
+.pos-pe.active {
+    width: 100%;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    box-shadow: 0px 3px 5px 0px rgba(0, 0, 0, 0.42);
+    transition: 0.3s all;
+}
+
+.pos-pe.active .center-flex {
+    width: 100%;
+}
+
+.pos-pe.active::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 150px;
+    background-color: rgba(2, 137, 209, 0.842);
+}
+.title-search {
+    color: #fff;
+    text-align: center;
+    font-family: "Roboto Bold";
+    margin: 0;
+    padding-bottom: 10px;
+    position: relative;
+    z-index: 9;
+}
+
+.input-elm {
+    background-color: rgba(255, 255, 255, 0.171);
+    padding-right: 90px;
+    overflow: hidden;
+    border-radius: 40px;
+    height: 70px;
+    position: relative;
+}
+
+.input-elm input {
+    margin: 0 !important;
+    border: 0 !important;
+    box-shadow: none !important;
+    outline: none !important;
+    width: 100% !important;
+    padding-left: 20px !important;
+    height: 100% !important;
+    font-family: "Roboto";
+    font-weight: 300;
+    color: #fff;
+}
+
+.input-elm input::placeholder {
+    color: #999999;
+}
+
+.btn-search {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 70px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: 0.3s all;
+}
+
+.icono-search {
+    color: #fff;
+    font-size: 20px;
+    transition: 0.3s all;
+}
+
+.preloader-search {
+    /* height: 40px; */
+    font-size: 0;
+    overflow: hidden;
+}
+
+.preloader-search .spinner-layer {
+    border-color: white;
+}
+
+/* modal */
+.modal-edit {
+    width: 40%;
+}
+
+/* tutorial */
+.video-tuto {
+    width: 100%;
+    padding-top: 60%;
+    background-color: #111;
+    border-radius: 7px;
+    background-image: url(/imagen/tutorial.png);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    overflow: hidden;
+}
+
+.play-video-contain {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 0.2s all;
+    overflow: hidden;
+}
+
+.play-video-contain:hover {
+    background-color: rgba(17, 17, 17, 0.541);
+}
+
+.play-video {
+    width: 70px;
+    height: 70px;
+    background-color: rgba(17, 17, 17, 0.884);
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-size: 40px;
+}
+
+/* arts */
+#art-all{
+    transition: 0.3s all;
+}
+/* apps */
+.col-page {
+    width: 100%;
+    overflow: hidden;
+    padding: 20px 40px;
+}
+
+.title-all {
+    font-size: 25px;
+    font-family: "Roboto";
+    letter-spacing: 2px;
+    font-weight: 300;
+    margin-bottom: 10px;
+}
+
+.col-container {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: -20px;
+    margin-right: -20px;
+}
+
+.elm-col {
+    width: 33.33333333333333%;
+    min-height: 130px;
+    padding: 20px 20px;
+    overflow: hidden;
+}
+
+
+@media (max-width: 800px) {
+    .elm-col {
+        width: 50%;
+    }
+}
+
+@media (max-width: 600px) {
+    .elm-col {
+        width: 50%;
+    }
+}
+
+@media (max-width: 550px) {
+    .elm-col {
+        width: 100%;
+    }
+}
+
+.art-result {
+    border-radius: 5px;
+    overflow: hidden;
+    background-color: #111;
+}
+
+.banner-art {
+    width: 100%;
+    padding: 30%;
+    background-color: #111;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.icono-rating {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: rgba(17, 17, 17, 0.562);
+    border-radius: 5px;
+    font-size: 0;
+    padding: 2px;
+    cursor: pointer;
+}
+
+.info-art {
+    padding: 10px;
+}
+
+.date-name {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+.title-page {
+    font-size: 20px;
+    font-family: "Roboto Bold";
+    color: #fff;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.date-art {
+    font-family: "Roboto";
+    color: #fff;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.platforms {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    display: flex;
+    align-items: center;
+}
+
+.title-elm {
+    font-size: 18px;
+    font-family: "Roboto";
+    color: #fff;
+}
+.platforms img{
+    width: 20px;
+    height: 20px;
+}
+.platforms img+img {
+    margin-left: 5px;
+}
+
+/* Pagination */
+.pagination-rawg {
+    width: 100%;
+    /* padding: 10px; */
+    overflow: hidden;
+    background-color: transparent;
+    border-radius: 0 0 7px 7px;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+}
+
+.modify-page {
+    /* padding: 10px; */
+    height: 60px;
+    /* background-color: #eee; */
+    /* width: 33.33333333333333%; */
+    text-align: center;
+}
+
+.left-page {
+    display: none;
+}
+
+.modify-page span {
+    line-height: 63px;
+    font-size: 20px;
+    font-family: "Roboto";
+}
+
+.modify-page i {
+    font-size: 50px;
+    line-height: 60px;
+}
+
+.left-page {
+    padding: 0 10px;
+}
+
+.right-page {
+    padding: 0 10px;
+}
+
+.left-page,
+.right-page {
+    cursor: pointer;
+}
+/* width */
+::-webkit-scrollbar {
+    width: 7px;
+    height: 3px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #222;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}

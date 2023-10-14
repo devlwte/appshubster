@@ -1,0 +1,21 @@
+{
+  "name": "rawgapi",
+  "title": "RawgaPI",
+  "version": "1.0.0",
+  "description": "RawgaPI: Tu puerta de acceso a la información de juegos de forma sencilla. Explora, busca y descubre con la API de Rawg.io.",
+  "main": "rawgapi.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devlwte/rawgapi.git"
+  },
+  "server": {
+    "pathviews": "views",
+    "pathpublic": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "devlwte",
+  "license": "MIT"
+}
