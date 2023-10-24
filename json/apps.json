@@ -58,8 +58,7 @@
       "tags": "Downloads, Games, Torrents",
       "dcp": "SFree ofrece información sobre juegos emocionantes de diversas tiendas en línea. Únete para explorar y disfrutar de entretenimiento sin costo alguno.",
       "repo": "https://github.com/devlwte/sfree.git",
-      "version": "1.0.1",
-      "isdev": true
+      "version": "1.0.1"
     },
     {
       "id": 5,
