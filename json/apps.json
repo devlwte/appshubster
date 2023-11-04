@@ -126,8 +126,8 @@
     {
       "id": 9,
       "ref": "clarityhub2023",
-      "name": "clarityhub",
-      "title": "ClarityHub",
+      "name": "clarityhub_home",
+      "title": "ClarityHub Home",
       "homepage": false,
       "dev": "8f17c94a",
       "cover": "/lib/apps/iconos/clarityhub.svg",
