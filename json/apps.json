@@ -12,7 +12,7 @@
       "tags": "Image Optimization, Image Compression, Picture Clarity, Photo Enhancement, Quality Imaging, Visual Elegance, Format Conversion",
       "dcp": "PurityPic es una aplicación intuitiva y elegante diseñada para perfeccionar tus imágenes. Con PurityPic, puedes reducir el tamaño de tus fotos sin comprometer la calidad.",
       "repo": "https://github.com/devlwte/puritypic.git",
-      "version": "1.0.1"
+      "version": "1.0.2"
     },
     {
       "id": 2,
@@ -27,7 +27,7 @@
       "tags": "Image Optimization, Image Compression, Picture Clarity, Photo Enhancement, Quality Imaging, Visual Elegance, Format Conversion",
       "dcp": "PurityPic es una aplicación intuitiva y elegante diseñada para perfeccionar tus imágenes. Con PurityPic, puedes reducir el tamaño de tus fotos sin comprometer la calidad.",
       "repo": "https://github.com/devlwte/puritypic.git",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "isdev": true
     },
     {
@@ -43,7 +43,7 @@
       "tags": "Gaming, API, Search, Games, Rawg.io, Discovery, Exploration, Information, Platform, Entertainment.",
       "dcp": "RawgaPI: Tu puerta de acceso a la información de juegos de forma sencilla. Explora, busca y descubre con la API de Rawg.io.",
       "repo": "https://github.com/devlwte/rawgapi.git",
-      "version": "1.0.1"
+      "version": "1.0.2"
     },
     {
       "id": 4,
@@ -73,7 +73,7 @@
       "tags": "Base de Datos, SQL, SQLite, Autocompletado SQL",
       "dcp": "SqliteConsole es una aplicación web diseñada para simplificar la gestión y consulta de bases de datos SQLite. Con una interfaz intuitiva y fácil de usar, incluso para usuarios sin experiencia en bases de datos, esta herramienta te permite crear, editar y consultar bases de datos SQLite de manera rápida y eficiente.",
       "repo": "https://github.com/devlwte/sqliteconsole.git",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "isdev": true
     },
     {
@@ -89,7 +89,7 @@
       "tags": "SQLite, Databases, Tables, Data Management, Simplification, Specialized Application",
       "dcp": "SQLiteTB es una aplicación altamente especializada que se enfoca en simplificar y optimizar la gestión de tablas en bases de datos SQLite. Con esta herramienta, puedes realizar una variedad de tareas esenciales, como la creación, modificación e inserción de datos, así como la configuración de columnas, brindando una experiencia completa y eficiente en el manejo de tablas de datos.",
       "repo": "https://github.com/devlwte/puritypic.git",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "isdev": true
     },
     {
@@ -105,7 +105,7 @@
       "tags": "Torrents,Download Management,Seeds-and-Peers",
       "dcp": "TorrentHive provides an intuitive user interface that allows users to manage their torrent downloads efficiently.",
       "repo": "https://github.com/devlwte/torrenthive.git",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "isdev": true
     },
     {
@@ -121,6 +121,6 @@
       "tags": "Wikipedia, Information Search, Multilingual, Reference, Quick Access, No Ads, Encyclopedia, Knowledge in Four Languages, Research, Study Tool, Culture, Updated Data, Accurate Information, Reference Application, Educational, Simple Navigation",
       "dcp": "WikiaPI es una útil herramienta multilingüe que brinda acceso directo y eficiente al conocimiento de Wikipedia, sin necesidad de navegar en el sitio web.",
       "repo": "https://github.com/devlwte/wikiapi.git",
-      "version": "1.0.0"
+      "version": "1.0.1"
     }
 ]
