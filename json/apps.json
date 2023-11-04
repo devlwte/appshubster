@@ -136,6 +136,7 @@
       "tags": "Express, App launch, Productivity, App execution",
       "dcp": "ClarityHub: Simplifica el lanzamiento de aplicaciones Node.js y Express. Una solución innovadora en desarrollo para una ejecución eficiente y clara de las apps de la comunidad o tus propias apps",
       "repo": "https://github.com/devlwte/clarityhubapp.git",
+      "ishome": true,
       "version": "1.0.1"
     }
 ]
