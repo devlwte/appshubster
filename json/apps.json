@@ -130,7 +130,7 @@
       "title": "ClarityHub",
       "homepage": false,
       "dev": "8f17c94a",
-      "cover": "/apps/clarityhub.svg",
+      "cover": "/lib/apps/clarityhub.svg",
       "banner": "https://devlwte.github.io/appshubster/banners/wikiapi.png",
       "caps": false,
       "tags": "Express, App launch, Productivity, App execution",
