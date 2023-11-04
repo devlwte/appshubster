@@ -122,5 +122,20 @@
       "dcp": "WikiaPI es una útil herramienta multilingüe que brinda acceso directo y eficiente al conocimiento de Wikipedia, sin necesidad de navegar en el sitio web.",
       "repo": "https://github.com/devlwte/wikiapi.git",
       "version": "1.0.1"
+    },
+    {
+      "id": 9,
+      "ref": "clarityhub2023",
+      "name": "clarityhub",
+      "title": "ClarityHub",
+      "homepage": false,
+      "dev": "8f17c94a",
+      "cover": "https://devlwte.github.io/appshubster/svg/wikiapi.svg",
+      "banner": "https://devlwte.github.io/appshubster/banners/wikiapi.png",
+      "caps": false,
+      "tags": "Express, App launch, Productivity, App execution",
+      "dcp": "ClarityHub: Simplifica el lanzamiento de aplicaciones Node.js y Express. Una solución innovadora en desarrollo para una ejecución eficiente y clara de las apps de la comunidad o tus propias apps",
+      "repo": "https://github.com/devlwte/wikiapi.git",
+      "version": "1.0.1"
     }
 ]
