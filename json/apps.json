@@ -121,7 +121,6 @@
       "tags": "Wikipedia, Information Search, Multilingual, Reference, Quick Access, No Ads, Encyclopedia, Knowledge in Four Languages, Research, Study Tool, Culture, Updated Data, Accurate Information, Reference Application, Educational, Simple Navigation",
       "dcp": "WikiaPI es una útil herramienta multilingüe que brinda acceso directo y eficiente al conocimiento de Wikipedia, sin necesidad de navegar en el sitio web.",
       "repo": "https://github.com/devlwte/wikiapi.git",
-      "ishome": true,
       "version": "1.0.1"
     },
     {
