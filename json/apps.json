@@ -12,7 +12,6 @@
       "tags": "Image Optimization, Image Compression, Picture Clarity, Photo Enhancement, Quality Imaging, Visual Elegance, Format Conversion",
       "dcp": "PurityPic es una aplicación intuitiva y elegante diseñada para perfeccionar tus imágenes. Con PurityPic, puedes reducir el tamaño de tus fotos sin comprometer la calidad.",
       "repo": "https://github.com/devlwte/puritypic.git",
-      "ishome": true,
       "version": "1.0.2"
     },
     {
@@ -44,7 +43,6 @@
       "tags": "Gaming, API, Search, Games, Rawg.io, Discovery, Exploration, Information, Platform, Entertainment.",
       "dcp": "RawgaPI: Tu puerta de acceso a la información de juegos de forma sencilla. Explora, busca y descubre con la API de Rawg.io.",
       "repo": "https://github.com/devlwte/rawgapi.git",
-      "ishome": true,
       "version": "1.0.3"
     },
     {
@@ -60,7 +58,6 @@
       "tags": "Downloads, Games, Torrents",
       "dcp": "SFree ofrece información sobre juegos emocionantes de diversas tiendas en línea. Únete para explorar y disfrutar de entretenimiento sin costo alguno.",
       "repo": "https://github.com/devlwte/sfree.git",
-      "ishome": true,
       "version": "1.0.3"
     },
     {
@@ -124,7 +121,6 @@
       "tags": "Wikipedia, Information Search, Multilingual, Reference, Quick Access, No Ads, Encyclopedia, Knowledge in Four Languages, Research, Study Tool, Culture, Updated Data, Accurate Information, Reference Application, Educational, Simple Navigation",
       "dcp": "WikiaPI es una útil herramienta multilingüe que brinda acceso directo y eficiente al conocimiento de Wikipedia, sin necesidad de navegar en el sitio web.",
       "repo": "https://github.com/devlwte/wikiapi.git",
-      "ishome": true,
       "version": "1.0.1"
     },
     {
