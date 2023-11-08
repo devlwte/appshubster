@@ -15,22 +15,6 @@
       "version": "1.0.2"
     },
     {
-      "id": 2,
-      "ref": "ytuhj684",
-      "name": "puritypic",
-      "title": "GamingSFree",
-      "homepage": false,
-      "dev": "8f17c94a",
-      "cover": "https://lokuedo5000.github.io/lwte/covers/sfree.svg",
-      "banner": "/lib/apps/banners/puritypic.jpg",
-      "caps": false,
-      "tags": "Image Optimization, Image Compression, Picture Clarity, Photo Enhancement, Quality Imaging, Visual Elegance, Format Conversion",
-      "dcp": "PurityPic es una aplicación intuitiva y elegante diseñada para perfeccionar tus imágenes. Con PurityPic, puedes reducir el tamaño de tus fotos sin comprometer la calidad.",
-      "repo": "https://github.com/devlwte/puritypic.git",
-      "version": "1.0.2",
-      "isdev": true
-    },
-    {
       "id": 3,
       "ref": "yt65rge4",
       "name": "rawgapi",
