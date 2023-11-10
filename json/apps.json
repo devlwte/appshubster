@@ -83,7 +83,7 @@
       "title": "TorrentHive",
       "homepage": false,
       "dev": "8f17c94a",
-      "cover": "https://lokuedo5000.github.io/lwte/covers/torrenthive.svg",
+      "cover": "/lib/apps/iconos/torrenthive.svg",
       "banner": "/lib/apps/banners/torrenthive.jpg",
       "caps": false,
       "tags": "Torrents,Download Management,Seeds-and-Peers",
