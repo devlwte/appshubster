@@ -1,10 +1,14 @@
 {
-  "b0e0e83f4253cd202a78e6803833f77cfcfe9633": {
+  "cfcfe9633": {
     "name": "BO2",
-    "cover": "https://i.imgur.com/RFfozBL.png"
+    "cover": "https://i.imgur.com/RFfozBL.png",
+    "devs": [],
+    "publishers": []
   },
-  "228d582decc9415565f1413cd1b755cad3d8a490": {
+  "cad3d8a490": {
     "name": "Ghostrunner 2",
-    "cover": "https://i.imgur.com/nHfuyLc.jpg"
+    "cover": "https://i.imgur.com/nHfuyLc.jpg",
+    "devs": [],
+    "publishers": []
   }
 }
