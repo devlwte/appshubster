@@ -1,21 +1,29 @@
 {
-  "ad3d8a490": {
-    "name": "Call of Duty: Black Ops 2",
-    "cover": "https://i.imgur.com/RFfozBL.png",
-    "devs": [],
-    "publishers": []
-  },
-  "cfcfe9633": {
-    "name": "Ghostrunner 2",
-    "cover": "https://i.imgur.com/nHfuyLc.jpg",
-    "devs": [],
-    "publishers": []
-  },
-  "566095a10": {
-    "name": "Sintel",
-    "cover": "https://i.imgur.com/e97O0fZ.jpg",
-    "director": ["Colin Levy"],
-    "devs": [],
-    "publishers": []
-  }
+    "ad3d8a490": {
+        "name": "Call of Duty: Black Ops 2",
+        "cover": "https://i.imgur.com/RFfozBL.png",
+        "devs": [],
+        "publishers": []
+    },
+    "cfcfe9633": {
+        "name": "Ghostrunner 2",
+        "cover": "https://i.imgur.com/nHfuyLc.jpg",
+        "devs": [],
+        "publishers": []
+    },
+    "566095a10": {
+        "name": "Sintel",
+        "cover": "https://i.imgur.com/e97O0fZ.jpg",
+        "director": [
+            "Colin Levy"
+        ],
+        "devs": [],
+        "publishers": []
+    },
+    "a250f27ce": {
+        "name": "Grand Theft Auto V",
+        "cover": "https://i.imgur.com/nO87z74.jpg",
+        "devs": [],
+        "publishers": []
+    }
 }
