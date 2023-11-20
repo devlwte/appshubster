@@ -47,7 +47,7 @@
     {
       "id": 5,
       "ref": "htyetuo5",
-      "name": "sqliteconsole",
+      "name": "sqlitelog",
       "title": "SqliteConsole",
       "homepage": false,
       "dev": "8f17c94a",
