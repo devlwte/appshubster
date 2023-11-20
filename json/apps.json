@@ -89,7 +89,7 @@
       "tags": "Torrents,Download Management,Seeds-and-Peers",
       "dcp": "TorrentHive provides an intuitive user interface that allows users to manage their torrent downloads efficiently.",
       "repo": "https://github.com/devlwte/torrenthive.git",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "isdev": true
     },
     {
