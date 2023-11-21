@@ -106,5 +106,20 @@
     "repo": "https://github.com/devlwte/clarityhubapp.git",
     "ishome": true,
     "version": "1.0.1"
+  },
+  {
+    "id": 8,
+    "ref": "appsendpackage",
+    "name": "new_package",
+    "title": "New Package",
+    "homepage": false,
+    "dev": "8f17c94a",
+    "cover": "/lib/apps/iconos/clarityhub.svg",
+    "banner": "/lib/apps/banners/clarityhub_home.jpg",
+    "caps": false,
+    "tags": "Express, App launch, Productivity, App execution",
+    "dcp": "Publica tus Apps",
+    "repo": "https://github.com/devlwte/new_package.git",
+    "version": "1.0.0"
   }
 ]
